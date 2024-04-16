@@ -84,7 +84,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-03-05 113517](https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/b96f8704-db74-4fb0-835d-078d58644625)
+![image](https://github.com/mahishasivakumar/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119559812/94380f49-5f00-44ca-8b2a-a1f9bb8f9acd)
+
 
 
 ## RESULT :
@@ -103,6 +104,7 @@ application like URL Encryption.
 4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 ## PROGRAM:
 ## AES.java
+```
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -161,12 +163,9 @@ Base64.getEncoder().encodeToString(cipher.doFinal(strToEncrypt.getBytes("UTF-8")
  System.out.println("Decrypted URL : " + decryptedString);
  }
 }
-   ## OUTPUT:
-URL Encryption Using AES Algorithm
--------------------------------------------------
-Original URL : www.annauniv.edu
-Encrypted URL : vibpFJW6Cvs5Y+L7t4N6YWWe07+JzS1d3CU2h3mEvEg=
-Decrypted URL : www.annauniv.edu
+```
+## OUTPUT:
+
 
 ## RESULT:
 
