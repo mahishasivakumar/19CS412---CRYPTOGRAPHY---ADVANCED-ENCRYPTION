@@ -165,9 +165,12 @@ Base64.getEncoder().encodeToString(cipher.doFinal(strToEncrypt.getBytes("UTF-8")
 }
 ```
 ## OUTPUT:
-
+![image](https://github.com/mahishasivakumar/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119559812/e59e0125-50f6-47b7-8071-21bac999a461)
 
 ## RESULT:
+Thus the java program to implement AES encryption technique had been
+implemented successfully
+
 
 
 
