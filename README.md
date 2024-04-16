@@ -252,10 +252,6 @@ return 0;
 Thus the Diffie-Hellman key exchange algorithm had been successfully
 implemented using C.
 
-
-
-
-
 ## IMPLEMENTATION OF DES ALGORITHM
 
 ## AIM:
@@ -292,7 +288,8 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-<img width="756" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/23e74c08-7cea-4381-b9fe-97e247b17470">
+![image](https://github.com/mahishasivakumar/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119559812/f5a7aca2-0ce5-4b71-abe3-3260f7058bad)
+
 
 ## RESULT:
 
